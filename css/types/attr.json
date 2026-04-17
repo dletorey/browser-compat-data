@@ -80,7 +80,7 @@
             }
           }
         },
-        "namespaces": {
+        "attr-name_accepts_namespaces": {
           "__compat": {
             "description": "namespaced attributes",
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/attr#namespaces",
