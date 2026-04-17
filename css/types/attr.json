@@ -82,7 +82,7 @@
         },
         "attr-name_accepts_namespaces": {
           "__compat": {
-            "description": "namespaced attributes",
+            "description": "`<attr-name>` accepts namespaces",
             "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/attr#namespaces",
             "spec_url": "https://drafts.csswg.org/css-values-5/#typedef-attr-name:~:text=namespaced%20attributes",
             "tags": [
